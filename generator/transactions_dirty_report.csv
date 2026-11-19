@@ -1,0 +1,12 @@
+anomaly_type,injected_count,percentage
+missing_txn_id,771,0.0771
+missing_order_id,977,0.0977
+invalid_amount_text,1164,0.1164
+negative_amount,1174,0.1174
+invalid_timestamp,1312,0.1312
+future_timestamp,755,0.0755
+unsupported_currency,878,0.0878
+inconsistent_status,1265,0.1265
+orphan_order_id,1286,0.1286
+exact_duplicate_rows,6079,0.6079
+duplicate_business_keys,5522,0.5522

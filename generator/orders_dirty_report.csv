@@ -1,0 +1,10 @@
+anomaly_type,injected_count,percentage
+missing_customer_id,1354,0.1354
+invalid_quantity_text,814,0.0814
+negative_quantity,725,0.0725
+invalid_date,981,0.0981
+future_date,950,0.095
+inconsistent_status,928,0.0928
+negative_price,842,0.0842
+exact_duplicate_rows,4219,0.4219
+duplicate_business_keys,6033,0.6033

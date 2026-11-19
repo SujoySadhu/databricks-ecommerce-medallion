@@ -221,3 +221,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Generated source datasets
+orders.csv
+transactions.csv
+
+# Local generated output
+data/
+
+# Credentials and local environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
